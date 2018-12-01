@@ -68,8 +68,3 @@ PROJECT DESCRIPTION
 	- States Overall description of project
 
 ********************************************************************
-
-## Thank you 
- By ` Mahmoud Mohamed `
-
-*********************************************
